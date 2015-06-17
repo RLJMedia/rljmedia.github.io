@@ -1,13 +1,13 @@
-name : Foundation5/github pages/Jykill starter
-brand : My Site
-description : This is the description of my site
+name : RLJMedia Website
+brand : RLJMedia Creative Branding solutions
+description : RLJMedia branding website
 keyword : 
-url : http://daigofuji.github.io/jekyll-foundation-5-starter/
-email : daigo@daigofujiwara.com
-twitter : DaigoFuji
-github : DaigoFuji
+url : http://rljmedia.github.io
+email : roger@rljmedia.com  
+twitter : rljmedia
+github : rljmedia
 author : Daigo Fujiwara
-analytics : UA-8418273-8
+analytics : UA-
 year : 2015
 markdown : kramdown
 exclude :
